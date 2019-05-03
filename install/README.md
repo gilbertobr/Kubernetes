@@ -5,6 +5,7 @@ install_dev_debian.sh
 
 #COMANDOS
 Subir deployment (NGINX)
+
 kubectl run nginx --image nginx
 
 kubectl get nodes
